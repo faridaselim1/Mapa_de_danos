@@ -1,5 +1,4 @@
 # Mapa_de_danos
 Automated Damage detection for Doors in Havana using AI.
-![Alt text](file:///D:/5.Semester/Freie_Entwurf/4.Kolloq/Screenshot%202025-01-30%20021536.png)
 
-
+![Alt text](https://github.com/faridaselim1/Mapa_de_danos/blob/main/Screenshot%202025-02-09%20000430.png)
